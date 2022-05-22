@@ -1,0 +1,38 @@
+<annotation>
+	<folder>eye</folder>
+	<filename>1 (1531).jpg</filename>
+	<path>C:\Users\Dima\PycharmProjects\ai\Tensorflow\workspace\images\collectedimages\eye\1 (1531).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>389</ymin>
+			<xmax>275</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>370</ymin>
+			<xmax>473</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>
